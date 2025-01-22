@@ -40,10 +40,10 @@ Evaluating data from various sources can provide insights into the company's per
 
 Work Step: Create 3 dimension tables and 1 fact tables
 
-![Create Table](image/2_create_table.PNG)
+![Create Table](image/2_create_table.png)
 
 ### 2. Create Setting for ETL Job 
-![ETL Dimension Table](image/3b.PNG)
+![ETL Dimension Table](image/3b.png)
 
 Explanations:
 * 1 – **DB Connections:** Centralize and manage relational database connections to ensure consistency and enable reuse across multiple jobs.
