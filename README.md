@@ -52,7 +52,7 @@ Explanations:
 * 4 – **Job Designs:** Develop data integration workflows using Talend Studio to define and manage data processing tasks.
 
 ### 3. Create ETL Job for DimAccount Table And DimBranch Table
-![Work Step 1](image/4_DimAccount-DimBranch.png)
+![Work Step 1](image/4_DimAccount-DimBranch.PNG)
 
 ### 4. Create ETL Job for DimCustomer Table
 ![Work Step 2](image/5_DimCustomer.PNG)
