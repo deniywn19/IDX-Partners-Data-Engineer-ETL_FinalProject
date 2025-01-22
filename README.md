@@ -58,10 +58,10 @@ Explanations:
 ![Work Step 2](image/5_DimCustomer.PNG)
 
 ### 5. Create ETL Job for FactTransaction Table
-![ETL Facct Table](image/6_DimFactTransaction.PNG)
+![ETL Facct Table](image/6_FactTransaction.PNG)
 
 ### 6. Create ETL Orchestration
-![ETL Fact Table](image/7_ETL-orchestration.PNG)
+![ETL Fact Table](image/7_ETL-orchestration.png)
 
 ### 7. Create Store Procedure
 
